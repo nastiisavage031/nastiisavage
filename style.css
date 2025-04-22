@@ -1,0 +1,5 @@
+body { font-family: 'Arial', sans-serif; background: #fff0f5; color: #333; margin: 0; padding: 0; }
+h1 { color: #e91e63; text-align: center; }
+nav { text-align: center; background: #ff69b4; padding: 10px; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+.gallery img { width: 200px; margin: 10px; border-radius: 10px; }
